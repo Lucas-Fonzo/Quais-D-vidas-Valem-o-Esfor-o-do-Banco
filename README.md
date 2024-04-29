@@ -39,3 +39,40 @@ Adicionamos o limiar de \$1000 ao modelo de regressão para avaliar o impacto ad
 Ajustamos a faixa de valores esperados de recuperação para verificar se os resultados obtidos são consistentes, independentemente da faixa selecionada.
 
 Este processo fornece uma estrutura abrangente para conduzir uma análise estatística completa em um projeto de recuperação bancária, permitindo a identificação de insights importantes e a tomada de decisões fundamentadas.
+
+## Como Executar
+
+### Pré-requisitos
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+
+### Passos
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/lucas-fonzo/Quais-Dividas-Valem-o-Esforco-do-Banco.git
+   ```
+
+2. **Navegue até o diretório do projeto:**
+   ```bash
+   cd Quais-Dividas-Valem-o-Esforco-do-Banco
+   ```
+
+3. **Instale as dependências:**
+   ```bash
+   pip install pandas numpy matplotlib
+   ```
+
+4. **Execute o Jupyter Notebook:**
+   ```bash
+   jupyter notebook
+   ```
+
+5. **Abra o arquivo `Quais-Dividas-Valem-o-Esforco-do-Banco.ipynb` no navegador que foi aberto.**
+
+6. **Siga as instruções dentro do notebook para executar cada célula e analisar os resultados.**
+
+Com esses passos, você poderá executar o projeto localmente em seu ambiente Jupyter Notebook. Se encontrar algum problema durante a execução, verifique se todas as dependências estão instaladas corretamente e se você está executando as células na ordem adequada.
