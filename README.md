@@ -1,6 +1,7 @@
 # Projeto de Estatística com python: Quais Dívidas Valem o Esforço do Banco
 
-Este projeto de estatística segue um processo de nove passos, enfatizando as análises estatísticas realizadas em cada etapa.
+Este projeto faz parte da coleção do site DataCamp. Posto esse projeto aqui como forma de compartilhar o meu estagio de desenvolvimento.
+O projeto de estatística segue um processo de nove passos, enfatizando as análises estatísticas realizadas em cada etapa.
 
 ## 1. Regressão Descontínua: Recuperação Bancária
 
